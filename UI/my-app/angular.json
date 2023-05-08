@@ -63,7 +63,8 @@
               "browserTarget": "my-app:build:production"
             },
             "development": {
-              "browserTarget": "my-app:build:development"
+              "browserTarget": "my-app:build:development",
+              "proxyConfig": "src\\proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
@@ -87,7 +88,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css"
             ],
             "scripts": []
           }
