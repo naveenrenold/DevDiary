@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\CSharp\\Dev diary\\DevDiary\\API\\API.csproj": {}
+    "D:\\Programs\\CSharp\\Dev diary\\devdiary\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\CSharp\\Dev diary\\DevDiary\\API\\API.csproj": {
+    "D:\\Programs\\CSharp\\Dev diary\\devdiary\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\CSharp\\Dev diary\\DevDiary\\API\\API.csproj",
+        "projectUniqueName": "D:\\Programs\\CSharp\\Dev diary\\devdiary\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Programs\\CSharp\\Dev diary\\DevDiary\\API\\API.csproj",
+        "projectPath": "D:\\Programs\\CSharp\\Dev diary\\devdiary\\api\\API.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\CSharp\\Dev diary\\DevDiary\\API\\obj\\",
+        "outputPath": "D:\\Programs\\CSharp\\Dev diary\\devdiary\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.3, )"

@@ -11,7 +11,7 @@ namespace DevDiary.API.Controllers
         public async Task<IActionResult> Get()
         {
             
-            return Ok("successfully completed :)");
+            return Ok(new {text="successfully completed :)"});
         }
     }
 }

@@ -31,3 +31,9 @@ D:\Programs\CSharp\Dev diary\DevDiary\API\obj\Debug\net7.0\refint\API.dll
 D:\Programs\CSharp\Dev diary\DevDiary\API\obj\Debug\net7.0\API.pdb
 D:\Programs\CSharp\Dev diary\DevDiary\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 D:\Programs\CSharp\Dev diary\DevDiary\API\obj\Debug\net7.0\ref\API.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\System.Web.Cors.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\System.Web.Http.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Programs\CSharp\Dev diary\devdiary\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
